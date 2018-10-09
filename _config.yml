@@ -2,12 +2,12 @@
 title: HI Blog
 SEOTitle: ZMH的博客 | HI Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: 748379747@qq.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, ZMH的博客, zhangmenghua, iOS, Apple, iPhone"
 url: "http://zhangmenghuadeboke.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/zhangmenghua/zhangmenghua.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
